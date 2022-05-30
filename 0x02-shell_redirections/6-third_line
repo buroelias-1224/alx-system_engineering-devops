@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d ' ' -f 3 file1
+head -13 file_name | tail +13
